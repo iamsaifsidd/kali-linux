@@ -1,0 +1,2 @@
+sudo service networking restart
+sudo service NetworkManager restart
